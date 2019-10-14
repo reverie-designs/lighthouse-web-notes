@@ -1,1 +1,3 @@
 # Dasha's Notes
+## Summary
+This repository contains all of the notes taken by [Dasha](https://github.com/reverie-designs) for the [Lighthouse Labs](https://www.lighthouselabs.ca/) Web Development Bootcamp.
